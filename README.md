@@ -5,7 +5,7 @@
 **Installation**
 -
 
-Step 1. clone package [git clone https://codescompanion.com/latest-laravel-8-installation-with-rest-api-using-passport-authentication/]
+Step 1. clone package [git clone https://github.com/pringal/laravel-api.git]
 
 Step 2. install composer dependency [composer install]
 
@@ -15,7 +15,7 @@ Step 3. Follow this article <a href="https://codescompanion.com/latest-laravel-8
 **Contribute**
 -
 
-Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://codescompanion.com/latest-laravel-8-installation-with-rest-api-using-passport-authentication/).
+Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/laravel-api.git).
 
 **Loveware**
 -
